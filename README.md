@@ -27,7 +27,7 @@ a story about a gardener
                  the gardener watered them<br>
                   for 99 days----(and one night)----<br>
                    and then...<br>
-                   the gardener...<br> got surprised.......
+                   the gardener...<br> got surprised.......</h3>
                    <ul>
                     <li>
                         <a href="#Table of contents">Table of contents</a>
@@ -36,14 +36,12 @@ a story about a gardener
                         <a href="#the seeds">the seeds</a>
                     </li>
                         <li>
-                            <a href="#the intro">the intro</a>
-                            
+                            <a href="#the intro">the intro</a>     
                         </li>
                     <li>
                         <a href="#the growth">the growth</a>
                     </li>
                 </ul>
-            </h3>
         <h1>
             the growth<hr>
         </h1>
@@ -51,7 +49,7 @@ a story about a gardener
             after the gardener waited...<br>
             2 sunflowers were there....<br>
             after the gardener waited...<br>
-            the 2 sunflowers were stretching towards each other....
+            the 2 sunflowers were stretching towards each other....</h3>
             <ul>
                 <li>
                     <a href="#Table of contents">Table of contents</a>
@@ -67,5 +65,4 @@ a story about a gardener
                     <a href="#the growth">the growth</a>
                 </li>
             </ul>
-        </h3>
 </body>
