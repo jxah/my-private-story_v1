@@ -31,7 +31,6 @@ a story about a gardener
                        </li>
                         <li>
                             <a href="#the intro">the intro</a>
-                            
                         </li>
                     <li>
                         <a href="#the growth">the growth</a>
@@ -57,7 +56,6 @@ a story about a gardener
                 </li>
                     <li>
                         <a href="#the intro">the intro</a>
-                        
                     </li>
                 <li>
                     <a href="#the growth">the growth</a>
