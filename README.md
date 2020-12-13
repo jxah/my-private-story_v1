@@ -1,18 +1,6 @@
 # my-private-story
 a story about a gardener
 <body>
-    <style>
-        body{
-    color: lightyellow;
-    background-color: crimson;
-}
-div{
-    border: lightyellow;
-}
-a{
-    color: lightyellow;
-}
-    </style>
     <ul id="Table of contents">
         <li>
             <a href="#Table of contents">table of contents</a>
