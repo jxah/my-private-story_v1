@@ -27,7 +27,7 @@ a story about a gardener
                  the gardener watered them<br>
                   for 99 days----(and one night)----<br>
                    and then...<br>
-                   the gardener...<br> got suprysd.......
+                   the gardener...<br> got -suprysd-.......
                    <ul>
                     <li>
                         <a href="#Table of contents">Table of contents</a>
