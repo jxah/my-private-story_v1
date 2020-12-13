@@ -57,10 +57,9 @@ a story about a gardener
                 <li>
                     <a href="#the seeds">the seeds</a>
                 </li>
-                    <li>
-                        <a href="#the intro">the intro</a>
-                        
-                    </li>
+                <li>
+                     <a href="#the intro">the intro</a>      
+                </li>
                 <li>
                     <a href="#the growth">the growth</a>
                 </li>
