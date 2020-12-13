@@ -3,9 +3,6 @@ a story about a gardener
 <body>
     <ul id="Table of contents">
         <li>
-            <a href="#Table of contents">table of contents</a>
-        </li>
-        <li>
             <a href="#the seeds">the seeds</a>
         </li>
             <li>
@@ -31,10 +28,7 @@ a story about a gardener
                    <ul>
                     <li>
                         <a href="#Table of contents">Table of contents</a>
-                    </li>
-                    <li>
-                        <a href="#the seeds">the seeds</a>
-                    </li>
+                       </li>
                         <li>
                             <a href="#the intro">the intro</a>
                             
