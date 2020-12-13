@@ -8,17 +8,17 @@ a story about a gardener
         <li>
             <a href="#the seeds">the seeds</a>
         </li>
-            <li>
-                <a href="#the intro">the intro</a>
-            </li>
+        <li>
+            <a href="#the intro">the intro</a>
+        </li>
         <li>
             <a href="#the growth">the growth</a>
         </li>
-    </ul><div id="the intro">
-        <h3>
+    </ul>
+<h2 id="#the intro">the intro</h2>
+       <h3>
             once upon a time there was a gardener and he loved <b>sunflowers</b>.
         </h3>
-    <div id="the seeds">
         <h1>the seeds</h1><hr>
             <h3>
                 the gardener planted 2 sunflowers<br>
@@ -27,7 +27,7 @@ a story about a gardener
                  the gardener watered them<br>
                   for 99 days----(and one night)----<br>
                    and then...<br>
-                   the gardener...<br> got -suprysd-.......
+                   the gardener...<br> got surprised.......
                    <ul>
                     <li>
                         <a href="#Table of contents">Table of contents</a>
@@ -44,8 +44,6 @@ a story about a gardener
                     </li>
                 </ul>
             </h3>
-    </div>
-    <div id="the growth">
         <h1>
             the growth<hr>
         </h1>
@@ -70,5 +68,4 @@ a story about a gardener
                 </li>
             </ul>
         </h3>
-    </div>
 </body>
