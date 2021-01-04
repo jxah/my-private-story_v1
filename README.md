@@ -11,7 +11,9 @@ author|editor
 jxah| mamipapi
 
 =======
+
 a story about a gardener
+
 <body>
     <ul id="Table of contents">
         <li>
