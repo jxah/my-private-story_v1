@@ -6,9 +6,9 @@ hope you enjoy
 
 
 
-author|editer
+author|editor
 ------|------
-jxah|
+jxah| mamipapi
 =======
 a story about a gardener
 <body>
