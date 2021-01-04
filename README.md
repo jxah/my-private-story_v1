@@ -5,12 +5,10 @@ hope you enjoy
 
 
 
-
 author|editor
 ------|------
 jxah| mamipapi
 
-=======
 
 a story about a gardener
 
