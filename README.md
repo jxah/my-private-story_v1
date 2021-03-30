@@ -1,7 +1,7 @@
 # my-private-story
 ### a story about a gardener
 ********************************************************************************************************************************************************************
-hope you enjoy
+ # [hope you enjoy](https://jxah.github.io/my-private-story_v1/Garden.html#Table%20of%20contents)
 
 
 |author        |editor               |
